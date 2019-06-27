@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP pin_array_2x1
+D Generic connector, single row, 01x02
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library
