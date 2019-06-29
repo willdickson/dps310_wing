@@ -3,4 +3,5 @@
   (lib (name dps310_dev)(type KiCad)(uri "$(KIPRJMOD)/dps310_dev.pretty")(options "")(descr ""))
   (lib (name Adafruit_BNO055)(type KiCad)(uri "$(KIPRJMOD)/Adafruit_BNO055.pretty")(options "")(descr ""))
   (lib (name JST_PH_2PIN)(type KiCad)(uri "$(KIPRJMOD)/JST_PH_2PIN.pretty")(options "")(descr ""))
+  (lib (name cable_tie_hole)(type KiCad)(uri "$(KIPRJMOD)/cable_tie_hole.pretty")(options "")(descr ""))
 )
