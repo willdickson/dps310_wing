@@ -378,7 +378,7 @@
   )
 
   (module Adafruit_BNO055:Adafruit_BNO055 (layer F.Cu) (tedit 5D16AA57) (tstamp 5D166C70)
-    (at 191 88.14 90)
+    (at 189.5 88.14 90)
     (path /5D150804)
     (fp_text reference U54 (at 0 1.905 90) (layer F.SilkS)
       (effects (font (size 0.762 0.762) (thickness 0.1778)))
